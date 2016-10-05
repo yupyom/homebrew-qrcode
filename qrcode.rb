@@ -6,7 +6,6 @@ class Qrcode < Formula
   version "1.0.0"
 
   def install
-    system "make"
     bin.install "qrcode"
   end
 end
