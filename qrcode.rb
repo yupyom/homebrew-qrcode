@@ -7,6 +7,6 @@ class Qrcode < Formula
 
   def install
     bin.install "qrcode"
-    man.install "qrcode.1"
+    man1.install "qrcode.1"
   end
 end
