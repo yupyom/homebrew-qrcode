@@ -1,9 +1,9 @@
 class Qrcode < Formula
   desc "command line tool of qrcode generator."
   homepage ""
-  url "https://github.com/yupyom/homebrew-tools/releases/download/v1.0.0/qrcode-1.0.0-darwin-amd64.zip"
-  sha256 "f524a536d5bab710d45687f40a29255dcb463e8fe7c969e7be88f38c1137b71c"
-  version "1.0.0"
+  url "https://github.com/yupyom/homebrew-tools/releases/download/v1.0.1/qrcode-1.0.1-darwin-amd64.zip"
+  sha256 "03de479844b3c2c7ae9193178486b7526cdc37c9e1bc9866e64f5b2fd6a3b076"
+  version "1.0.1"
 
   def install
     bin.install "qrcode"
