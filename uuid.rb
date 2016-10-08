@@ -1,8 +1,8 @@
 class Uuid < Formula
   desc "command line tool of UUID version 4 string generator."
   homepage "http://yupyom.github.io/tools/uuid.1.html"
-  url "https://github.com/yupyom/homebrew-tools/releases/download/v1.0.0/uuid-1.0.0-darwin-amd64.zip"
-  sha256 "c061d5c317e864f6a512674d68bdbe9c2f37257623495b212290f5cbddc2f251"
+  url "https://github.com/yupyom/homebrew-tools/releases/download/v1.0.1/uuid-1.0.1-darwin-amd64.zip"
+  sha256 "6cfc44edf8de824067a573831d382da75304aac4048e188a84996ac9763d576d"
   version "1.0.0"
 
   def install
