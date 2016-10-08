@@ -1,4 +1,4 @@
-class Qrcode < Formula
+class Md5str < Formula
   desc "command line tool of MD5 checksum string generator."
   homepage ""
   url "https://github.com/yupyom/homebrew-tools/releases/download/v1.0.0/md5str-1.0.0-darwin-amd64.zip"
