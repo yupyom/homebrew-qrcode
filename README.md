@@ -9,6 +9,7 @@ brew install <formula>
 
 ## formulas
 
+- [code39](http://yupyom.github.io/tools/code39.1.html)
 - [md5str](http://yupyom.github.io/tools/md5str.1.html)
 - [qrcode](http://yupyom.github.io/tools/qrcode.1.html)
 - [uuidv4str](http://yupyom.github.io/tools/uuidv4str.1.html)
