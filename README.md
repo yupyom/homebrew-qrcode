@@ -15,3 +15,4 @@ brew install <formula>
 - [urldecode](http://yupyom.github.io/tools/urldecode.1.html)
 - [urlencode](http://yupyom.github.io/tools/urlencode.1.html)
 - [uuidv4str](http://yupyom.github.io/tools/uuidv4str.1.html)
+- [xlsx](http://yupyom.github.io/tools/xlsx.1.html)
